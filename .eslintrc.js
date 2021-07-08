@@ -5,5 +5,6 @@ module.exports = {
   ],
   ignorePatterns: [
     `packages/plugin-compat/extra/fsevents/fsevents-*.js`,
-  ]
+    `packages/plugin-dm/**/*`,
+  ],
 };
